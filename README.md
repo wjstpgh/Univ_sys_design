@@ -134,4 +134,21 @@ w\:* {behavior:url(#default#VML);}
 
 ### 개념클래스 다이어그램
 
+![image](https://user-images.githubusercontent.com/26988563/163299781-9a0b6aa1-a49c-4a3e-86ce-e7a4071ae9c2.png)
+
+### 분석클래스 다이어그램
+
+![image](https://user-images.githubusercontent.com/26988563/163299857-bb8e6d4c-0d2a-441b-af50-ab2e956807b3.png)
+
+Enumeration->Boundary, Signal->Control, dataType->Entity
+
+### 협력 다이어그램
+
+![image](https://user-images.githubusercontent.com/26988563/163299928-260177f8-7f7f-490d-8134-9c8b415aeddd.png)
+
+### 배치 다이어그램
+
+![image](https://user-images.githubusercontent.com/26988563/163299972-e279de05-d5c3-4aa2-90b0-8b9531ce7d0e.png)
+
+
 
